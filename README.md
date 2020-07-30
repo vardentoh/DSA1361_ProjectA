@@ -7,6 +7,6 @@ Finding the best strategy to win <a href="https://www.climatecentre.org/resource
 ### Contributing members
 
 - Ai Xia
-- Jie Cheng
+- Jie Sheng
 - Silas
 - Varden
