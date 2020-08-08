@@ -48,7 +48,7 @@ def check_pmf(pmf):
         raise ValueError('Some values of pmf is negative')
     elif (pmf > 1).any():
         raise ValueError('Some values of pmf is more than 1')
-    elif (pmf_sum < 0.999) or (pmf_sum > 1.001):
+    elif pmf_sum != 1:
         raise ValueError('pmf sum not 1')
 
 
